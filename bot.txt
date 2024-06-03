@@ -1,0 +1,17 @@
+STEPS - 
+npm install discord.js
+Enter bot token in the .env file leave rest blank
+For help please do !help
+YOU NEED NODE.JS TO RUN THIS
+To run code please do "node bot.js" in the terminal
+
+NOTE - THIS PROJECT IS DISCONTINUED AND MAY HAVE TINY ERRORS 
+
+
+```Once added to the GUILD do the following:
+1. Use !squeue (channel id) to set where the queue channel will be
+2. Use !logs (channel id) store wager logs
+3. Use !srole (role id) to set a role which can close tickets
+4. Do !queue in the channel where the queue will happen then once the bot has posted the embed delete your message```
+
+`Sharing the link will get you blacklisted and also the bot will not function like it is supposed to, it is designed for single servers`

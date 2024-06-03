@@ -1,0 +1,16 @@
+{
+  "name": "syn-anon-wager",
+  "version": "1.0.0",
+  "description": "An Anon Wager bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Synergy Development",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": []
+}
